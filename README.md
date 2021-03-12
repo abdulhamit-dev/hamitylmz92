@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @hamitylmz92
+- 👋 Hi, I’m Abdülhamit Yılmaz
 .Net Core MVC + Angular
 Fullstack Developer
